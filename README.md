@@ -9,8 +9,9 @@ The core of the project is a solver designed to calculate the **minimum number o
 * **State Tree Exploration:** The solver generates a decision tree where each node represents a click. By traversing the tree, the algorithm identifies the branch with the **minimum depth**, ensuring the most efficient solution is found.
 
 ## How it Works
-The program simulates every possible interaction on the grid. By using an iterative/recursive approach (Brute-force/Backtracking), it evaluates the consequences of each click until the board is empty, then backtracks to compare move counts and returns the most efficient sequence.<br>
+The programme silently simulates every possible interaction on the grid. By using an iterative/recursive approach (Brute-force/Backtracking), it evaluates the consequences of each click until the board is empty, then backtracks to compare move counts and returns the most efficient sequence.<br>
 
+## Instructions
 To run this project, you need a C compiler.<br> 
 
 1. Save both files in the same directory. <br>
