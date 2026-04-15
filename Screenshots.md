@@ -2,4 +2,4 @@
 
 <img width="800" alt="BB2" src="Screenshots/BB2.png" /> <br>
 
-<img width="800" alt="BB3" src="Screenshots/BB3.png" /> <br>
+<img width="700" alt="BB3" src="Screenshots/BB3.png" /> <br>
